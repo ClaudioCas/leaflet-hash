@@ -38,4 +38,4 @@ You can view a demo of leaflet-hash at [mlevans.github.io/leaflet-hash/map.html]
 
 ### License
 
-MIT License. See [LICENSE](https://github.com/mlevans/leaflet-hash/blob/master/LICENSE.md) for details.
+MIT License. See [LICENSE](https://github.com/mlevans/leaflet-hash/blob/master/LICENSE.md) for details. [Test]
