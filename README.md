@@ -36,9 +36,9 @@ Clone or Download git and execute example.html
 
 [@calvinmetcalf](http://github.com/calvinmetcalf)
 
-[@claudiocas](http://github.com/claudiocas)
-
 [@tmcw](http://github.com/tmcw)
+
+[@claudiocas](http://github.com/claudiocas)
 
 ### License
 
